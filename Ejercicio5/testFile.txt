@@ -1,0 +1,4 @@
+Dante Alexis,Llanes,20-05-1986,46300
+Estela Miriam,Martinez,13-12-1962,78500
+Juan Diego ,Libardi,29-07-1981,65300
+Yanina,Pierandrey,25-08-1982,45600
